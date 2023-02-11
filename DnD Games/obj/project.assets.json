@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spike\\OneDrive\\Desktop\\repos\\DnD Games\\DnD Games\\DnD Games.csproj",
+      "projectUniqueName": "C:\\Users\\spike\\Source\\Repos\\DandDice\\DnD Games\\DnD Games.csproj",
       "projectName": "DnD Games",
-      "projectPath": "C:\\Users\\spike\\OneDrive\\Desktop\\repos\\DnD Games\\DnD Games\\DnD Games.csproj",
+      "projectPath": "C:\\Users\\spike\\Source\\Repos\\DandDice\\DnD Games\\DnD Games.csproj",
       "packagesPath": "C:\\Users\\spike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spike\\OneDrive\\Desktop\\repos\\DnD Games\\DnD Games\\obj\\",
+      "outputPath": "C:\\Users\\spike\\Source\\Repos\\DandDice\\DnD Games\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\spike\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

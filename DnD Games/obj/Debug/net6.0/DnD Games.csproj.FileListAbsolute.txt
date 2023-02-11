@@ -13,3 +13,18 @@ C:\Users\spike\OneDrive\Desktop\repos\DnD Games\DnD Games\obj\Debug\net6.0\refin
 C:\Users\spike\OneDrive\Desktop\repos\DnD Games\DnD Games\obj\Debug\net6.0\DnD Games.pdb
 C:\Users\spike\OneDrive\Desktop\repos\DnD Games\DnD Games\obj\Debug\net6.0\DnD Games.genruntimeconfig.cache
 C:\Users\spike\OneDrive\Desktop\repos\DnD Games\DnD Games\obj\Debug\net6.0\ref\DnD Games.dll
+C:\Users\spike\Source\Repos\DandDice\DnD Games\bin\Debug\net6.0\DnD Games.exe
+C:\Users\spike\Source\Repos\DandDice\DnD Games\bin\Debug\net6.0\DnD Games.deps.json
+C:\Users\spike\Source\Repos\DandDice\DnD Games\bin\Debug\net6.0\DnD Games.runtimeconfig.json
+C:\Users\spike\Source\Repos\DandDice\DnD Games\bin\Debug\net6.0\DnD Games.dll
+C:\Users\spike\Source\Repos\DandDice\DnD Games\bin\Debug\net6.0\DnD Games.pdb
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.csproj.AssemblyReference.cache
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.AssemblyInfoInputs.cache
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.AssemblyInfo.cs
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.csproj.CoreCompileInputs.cache
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.dll
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\refint\DnD Games.dll
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.pdb
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\DnD Games.genruntimeconfig.cache
+C:\Users\spike\Source\Repos\DandDice\DnD Games\obj\Debug\net6.0\ref\DnD Games.dll
