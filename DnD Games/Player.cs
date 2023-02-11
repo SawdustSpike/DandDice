@@ -15,6 +15,7 @@ namespace DnD_Games
         public string Name { get; set; }
         public string Score { get; set; }
         public int[] Dice { get; set; }
+        
 
     }
 }

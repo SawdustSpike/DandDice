@@ -44,6 +44,7 @@ players = Game.RiverRoll(players);
 Game.DisplayRiver(players);
 Console.WriteLine("Players, This is the Last Time to Place Bets. Hit Enter To Discover the Winner.");
 Console.ReadLine();
-Console.WriteLine(Game.FindWinner(players));
+Game.FindWinner(players);
+Console.ReadLine();
 
 
